@@ -8,7 +8,8 @@ Unlike traditional email summarizers that rely on specific transformer models li
 
 Experience the future of personal assistance with Aida—sophisticated, intuitive, and always ready to assist you in navigating the digital world with ease.
 
-![Light Blue and White Bold Simple Presentation (1)](https://github.com/kailas711/Project-Aida/assets/89206677/ed6df0ad-48e6-4db3-ae3b-41b651dd2fc2)
+![1-ezgif com-optimize](https://github.com/kailas711/Project-Aida/assets/89206677/44203408-44a5-49c2-bb67-c286c75079a7)
+
 
 
 
