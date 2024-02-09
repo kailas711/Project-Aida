@@ -1,6 +1,6 @@
 # Project-Aida
 
-Introducing Aida: Your All-in-One Personal Assistant
+### Introducing Aida: Your All-in-One Personal Assistant
 
 Aida is not just another email summarizer app; it's a versatile personal assistant powered by LLM technology. With Aida, you can effortlessly manage your emails, stay updated on blogs, and access detailed information—all in one place.
 
